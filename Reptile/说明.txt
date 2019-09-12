@@ -1,0 +1,8 @@
+文件保存地址修改：
+打开Arrangement.py
+第206行为保存地址，可以修改保存地址
+
+sources 文件夹里 shi.txt， xian.txt , xiang.txt 次要地址（报错后可以修改），其中的附件为主要地址，请勿删除
+
+Arrangement.py为主文件 down_xls.py为测试文件
+

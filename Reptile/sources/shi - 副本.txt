@@ -1,0 +1,13 @@
+            <div class=\'c1\'>市级：</div>
+            <div class=\'c2 c_list2\'>
+              <a href=\'http://gy.gzegn.gov.cn\' data=\'2\' title=\'贵阳市政务服务网\'>贵阳市</a>
+              <a href=\'http://lps.gzegn.gov.cn\' data=\'4\' title=\'六盘水市政务服务网\'>六盘水市</a>
+              <a href=\'http://zy.gzegn.gov.cn\' data=\'3\' title=\'遵义市政务服务网\'>遵义市</a>
+              <a href=\'http://as.gzegn.gov.cn\' data=\'5\' title=\'安顺市政务服务网\'>安顺市</a>
+              <a href=\'http://bj.gzegn.gov.cn\' data=\'6\' title=\'毕节市政务服务网\'>毕节市</a>
+              <a href=\'http://tr.gzegn.gov.cn\' data=\'7\' title=\'铜仁市政务服务网\'>铜仁市</a>
+              <a href=\'http://qxn.gzegn.gov.cn\' data=\'10\' title=\'黔西南布依族苗族自治州政务服务网\'>黔西南州</a>
+              <a href=\'http://qdn.gzegn.gov.cn\' data=\'8\' title=\'黔东南苗族侗族自治州政务服务网\'>黔东南州</a>
+              <a href=\'http://qn.gzegn.gov.cn\' data=\'9\' title=\'黔南布依族苗族自治州政务服务网\'>黔南州</a>
+              <a href=\'http://gax.gzegn.gov.cn\' data=\'11\' title=\'贵安新区政务服务网\'>贵安新区</a></div>
+          </div>
